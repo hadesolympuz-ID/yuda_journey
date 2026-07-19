@@ -1,6 +1,6 @@
 ---
 id: LOG-3
-title: Sometimes, the Clue Was There Before the Investigation
+title: LOG-3 | Sometimes, the Clue Was There Before the Investigation
 aliases:
   - Sometimes, the Clue Was There Before the Investigation
 date: 2026-07-19
@@ -11,10 +11,11 @@ category:
 sub:
   - Debug, Traceback
 status: Active
-parent: [[214-observe-before-conclude]]
+parent:
+  - - 214-observe-before-conclude
 source:
-  - [[216-nothing-is-wasted]]
-  - [[217-ideas-must-be-tested]]
+  - - - 216-nothing-is-wasted
+  - - - 217-ideas-must-be-tested
 tags:
   - observation
   - traceback

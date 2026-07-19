@@ -1,6 +1,6 @@
 ---
 id: LOG-2
-title: DEEFV itu alat menghitung
+title: LOG-2 | DEEFV itu alat menghitung
 aliases:
   - DEEFV itu alat menghitung
 date: 2026-07-18
@@ -12,7 +12,8 @@ sub:
   - chart
 status: Research Framework (Observation)
 parent:
-source: [[quartz-temp/content/02-philosophy/21-main-philosophy|21-main-philosophy]]
+source:
+  - - quartz-temp/content/02-philosophy/21-main-philosophy|21-main-philosophy
 tags:
   - movement
   - distance

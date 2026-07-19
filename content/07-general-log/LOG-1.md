@@ -1,6 +1,6 @@
 ---
 id: LOG-1
-title: Risiko Ternyata Bukan Angka
+title: LOG-1 | Risiko Ternyata Bukan Angka
 aliases:
   - Risiko Ternyata Bukan Angka
 date: 2026-07-18
