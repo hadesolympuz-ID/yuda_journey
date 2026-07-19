@@ -1,4 +1,4 @@
-```dataview
+```dataview 
 TABLE
 id,
 title,
@@ -10,7 +10,7 @@ source,
 status,
 date,
 tags
-FROM "docs/07-general-log/trading"
-WHERE file.name != "Trading Index"
+FROM "content/07-general-log"
+WHERE file.name != "~ Log Index"
 SORT id ASC
 ```
