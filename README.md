@@ -1,17 +1,75 @@
-# Quartz v5
+# YUDA
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+**Your Understanding and Decision Architecture**
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+> *Every conclusion is the beginning of a new question.*
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+YUDA is not a note-taking application.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+YUDA preserves the evolution of understanding.
 
-## Sponsors
+Every log is immutable.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+New understanding creates a new log.
+
+Knowledge is a journey, not a destination.
+
+---
+
+# Filosofi
+
+Log ini dibuat untuk kita yang sedang belajar **memahami**, karena memahami bukanlah menghafal.
+
+Setiap log adalah potret dari cara kita berpikir pada suatu waktu. Bukan kebenaran mutlak, melainkan sebuah perjalanan yang akan terus berkembang.
+
+Setiap kesimpulan seharusnya melahirkan pertanyaan baru.
+
+Karena ketika pertanyaan berhenti, perjalanan memahami juga ikut berhenti.
+
+Temukan perjalananmu di setiap kesimpulan yang kamu buat.
+
+Jadikan setiap pemahaman sebagai awal untuk memperluas pemahaman berikutnya.
+
+---
+
+# Philosophy
+
+YUDA exists for people who seek to understand, not merely to remember.
+
+Understanding is never final.
+
+Every log is a snapshot of how we think at a particular moment, not an absolute truth.
+
+Each conclusion should give birth to a new question.
+
+Because when questions stop, the journey of understanding stops as well.
+
+Find your own journey through every conclusion you make.
+
+Let every understanding become the beginning of a deeper understanding.
+
+---
+
+## The Journey
+
+Observe.
+
+Think.
+
+Conclude.
+
+Question.
+
+Repeat.
+
+---
+## Project Status
+
+🚧 YUDA is currently in active development.
+
+This repository is built in public.
+
+Every architectural decision, discussion, and iteration is documented openly.
+
+The goal is not only to build YUDA,
+but also to preserve the journey of building it.
