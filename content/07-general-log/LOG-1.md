@@ -59,5 +59,7 @@ Kesimpulan saya hari ini sederhana.
 
 parent:
   - [[214-observe-before-conclude|Observe before Conclude]]
+
+
 source: 
   - [[214-observe-before-conclude|Observe before Conclude]]

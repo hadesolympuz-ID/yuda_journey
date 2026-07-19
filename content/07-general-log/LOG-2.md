@@ -279,5 +279,7 @@ Kemampuan tersebut, apabila ada, harus dibuktikan melalui observasi dan pengujia
 7. Apakah korelasi tersebut cukup signifikan untuk dijadikan bobot dalam framework observasi?
 
 parent:
+
+
 source:
   - [[21-main-philosophy]]

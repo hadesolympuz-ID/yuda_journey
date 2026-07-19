@@ -50,6 +50,7 @@ Karena itu, setiap observasi sebaiknya disimpan, meskipun pada saat itu belum te
 
 parent:
   - [[214-observe-before-conclude|Observe before Conclude]]
+  
 source:
   - [[216-nothing-is-wasted]]
   - [[217-ideas-must-be-tested]]
