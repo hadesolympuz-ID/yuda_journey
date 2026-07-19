@@ -13,7 +13,7 @@ sub:
 status: Research Framework (Observation)
 parent:
 source:
-  - - quartz-temp/content/02-philosophy/21-main-philosophy|21-main-philosophy
+  - [[21-main-philosophy]]
 tags:
   - movement
   - distance
@@ -277,3 +277,7 @@ Kemampuan tersebut, apabila ada, harus dibuktikan melalui observasi dan pengujia
 5. Apakah nilai DEEFV konsisten pada sampel yang berbeda?
 6. Apakah terdapat korelasi antara nilai DEEFV dan perilaku harga setelah movement tersebut selesai?
 7. Apakah korelasi tersebut cukup signifikan untuk dijadikan bobot dalam framework observasi?
+
+parent:
+source:
+  - [[21-main-philosophy]]

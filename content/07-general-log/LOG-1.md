@@ -12,7 +12,9 @@ sub:
   - Global Economy
 status: Active
 parent:
-source: []
+  - [[214-observe-before-conclude|Observe before Conclude]]
+source: 
+  - [[214-observe-before-conclude|Observe before Conclude]]
 tags:
   - risk
   - macro
@@ -55,3 +57,7 @@ Kesimpulan saya hari ini sederhana.
 **Perubahan perilaku manusia terhadap risiko dapat diamati. Memahami perubahan perilaku tersebut menjadi salah satu cara untuk memahami arah pasar.**
 
 
+parent:
+  - [[214-observe-before-conclude|Observe before Conclude]]
+source: 
+  - [[214-observe-before-conclude|Observe before Conclude]]

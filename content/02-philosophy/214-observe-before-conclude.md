@@ -12,8 +12,9 @@ sub:
   - Global rule
 status: Active
 parent:
-  - - 21-main-philosophy
+  - [[21-main-philosophy]]
 source:
+  - "[[21-main-philosophy]]"
 tags:
   - observation
   - decision

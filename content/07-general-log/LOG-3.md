@@ -12,10 +12,10 @@ sub:
   - Debug, Traceback
 status: Active
 parent:
-  - - 214-observe-before-conclude
+  - [[214-observe-before-conclude|Observe before Conclude]]
 source:
-  - - - 216-nothing-is-wasted
-  - - - 217-ideas-must-be-tested
+  - [[216-nothing-is-wasted]]
+  - [[217-ideas-must-be-tested]]
 tags:
   - observation
   - traceback
@@ -46,3 +46,10 @@ Karena itu, setiap observasi sebaiknya disimpan, meskipun pada saat itu belum te
 **Sebelum melakukan investigasi yang lebih dalam, ada baiknya meninjau kembali informasi yang telah dimiliki sebelumnya.**
 
 **Terkadang, petunjuk yang dibutuhkan bukan berada di depan kita, melainkan sudah pernah kita temui jauh sebelum masalah itu muncul.**
+
+
+parent:
+  - [[214-observe-before-conclude|Observe before Conclude]]
+source:
+  - [[216-nothing-is-wasted]]
+  - [[217-ideas-must-be-tested]]
