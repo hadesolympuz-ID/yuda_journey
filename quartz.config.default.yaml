@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: YUDA
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -127,6 +127,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: "Inside"
     layout:
       position: left
       priority: 50
